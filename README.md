@@ -2,7 +2,7 @@
 
 #### **A small display based on an ESP32 c3 super mini that shows the current song playing on desktop Apple Music**
 
-![image alt]([https://github.com/AEzirrr/Apple-Music-ESP32-Display/blob/4f53cd4df6e98eee22222770171ee1dfaffafb8b/image_2026-03-20_072319719.png](https://github.com/AEzirrr/Apple-Music-ESP32-Display/blob/6ec90a064f33753bb449e6c9c229f032fa01df67/Apple%20Music%20ESP32%20Display%20Screenshot.jpg))
+![image alt](https://github.com/AEzirrr/Apple-Music-ESP32-Display/blob/56fd9360bf142e79def1e3946cb3b72bc529984b/Apple%20Music%20ESP32%20Display%20Screenshot.jpg)
 
 This mini project started when i saw videos of other developers and hobbyist modifying the old and out of service Spotify car thing device. I initially wanted to try making one myself since i am fond of desk accessories but in the PH, the device was pretty rare. So i decided to make a somewhat similar version using a very affordable ESP32 c3 super mini microcontroller and ST7789 1.9 inch display. I have some experience in making Arduino based projects in the past but I am not very proficient in it. With the help of AI I was able to accelerate this project's development and learn different things like setting up a local server using python that gets information from apple music in the background and how to utilize the ESP32's wifi capabilities.
 
